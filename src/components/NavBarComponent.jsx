@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export const NavBarComponent = () => {
   return (
   
-     <Navbar bg="primary" data-bs-theme="dark" className='nav'>
+     <Navbar bg="dark" data-bs-theme="dark" className='nav'>
         <Container>
           <Navbar.Brand as={Link} to="/">PizzasChillan</Navbar.Brand>
           <Nav className="me-auto">

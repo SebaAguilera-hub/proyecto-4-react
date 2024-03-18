@@ -5,7 +5,7 @@ import { Home } from './pages/Home';
 import { About } from './pages/About';
 import { Menu } from './pages/Menu';
 import { Reserva } from './pages/Reserva';
-
+import "./App.css"
 
 function App() {
   return (

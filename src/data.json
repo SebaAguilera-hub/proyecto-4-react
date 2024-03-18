@@ -1,0 +1,38 @@
+{
+    "pizza":[
+        {
+         "id": 1,
+         "stars": "5/5",
+         "location": "Chillán, Chile",
+         "date": 2002,
+         "clients": 1201
+        }
+    ],
+    "menu":[
+        {
+            "id": 1,
+            "title": "Pizza Italiana",
+            "price": 4000,
+            "imgredients": ["Tomate","Cebolla","Aceitunas"],
+            "img": "src/images/pizzaItaliana.jpg",
+            "time": 30
+        },
+        {
+            "id": 2,
+            "title": "Pizza Preferida",
+            "price": 3500,
+            "imgredients": ["Jamón","Aceituna","Carne"],
+            "img": "src/images/pizzaFav.jpg",
+            "time": 40
+        },
+        {
+            "id": 3,
+            "title": "Pizza Caribe",
+            "price": 1000,
+            "imgredients": ["Piña","Champiñon","Tomate"],
+            "img": "src/images/pizzaCaribe.jpg",
+            "time": 20
+        }
+
+    ]
+} 
