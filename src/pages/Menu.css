@@ -1,11 +1,11 @@
 .main-menu-container{
-    margin-top: 50px;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
     align-items: center;
     width: 100%;
-    height: 100vh;
+    height: auto;
+    margin-top: 50px;
 }
 
 .menu-title-container {
@@ -17,11 +17,11 @@
 }
 
 .card-container{
-    width: 100%;
-    max-width: 1000px;
+    max-width: 700px;
     display: flex;
     justify-content: space-evenly ;
     align-items: center;
     flex-wrap: wrap;
+    height: auto;
 
 }

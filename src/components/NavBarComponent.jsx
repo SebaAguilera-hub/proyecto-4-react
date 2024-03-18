@@ -8,7 +8,7 @@ export const NavBarComponent = () => {
         <Container>
           <Navbar.Brand as={Link} to="/">PizzasChillan</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link as={Link} to="/about">Sobre nosotros</Nav.Link>
+            <Nav.Link as={Link} to="/">Sobre nosotros</Nav.Link>
             <Nav.Link as={Link} to="/menu">Nuestro menu</Nav.Link>
             <Nav.Link as={Link} to="/reservacion">Reservaciones</Nav.Link>
           </Nav>

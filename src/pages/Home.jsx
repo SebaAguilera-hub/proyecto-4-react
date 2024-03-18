@@ -2,7 +2,7 @@ import React from 'react'
 import "./Home.css"
 import { DatosRestaurante } from '../components/DatosRestaurante'
 
-import data from "../dataPizzeria.json"
+import data from "../data.json"
 
 
 export const Home = () => {

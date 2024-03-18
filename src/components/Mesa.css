@@ -1,0 +1,45 @@
+.mesa-card{
+  background-color: rgb(250, 250, 89);
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.mesa-img{
+  background-color: blue;
+  border-radius: 10px 10px 0 0;
+  width: 200px;
+  height: 200px;
+}
+
+.mesa-img img{
+  width: 100%;
+  height: 100%;
+  border-radius: 10px 10px 0 0;
+  
+}
+
+.mesa-grid {
+    
+    background-color: rgb(172, 248, 223);
+    padding-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(2, 100px);
+    grid-template-rows: repeat(3, 40px);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+
+.mesa-grid .mesa-item{ 
+  padding-left: 10px;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.button-reservar{ 
+}
+    
+    .div1 { grid-area: 1 / 1 / 2 / 3; }
+    .div2 { grid-area: 2 / 1 / 3 / 3; }
+    .div3 { grid-area: 3 / 1 / 4 / 3; }

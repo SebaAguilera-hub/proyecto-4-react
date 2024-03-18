@@ -1,5 +1,5 @@
 {
-    "pizza":[
+    "pizzeria":[
         {
          "id": 1,
          "stars": "5/5",
@@ -32,7 +32,57 @@
             "imgredients": ["Piña","Champiñon","Tomate"],
             "img": "src/images/pizzaCaribe.jpg",
             "time": 20
+        },
+        {
+            "id": 4,
+            "title": "Pizza Mexicana",
+            "price": 1000,
+            "imgredients": ["Piña","Champiñon","Tomate"],
+            "img": "src/images/pizzaCaribe.jpg",
+            "time": 20
+        },
+        {
+            "id": 5,
+            "title": "Pizza Generica",
+            "price": 1000,
+            "imgredients": ["Piña","Champiñon","Tomate"],
+            "img": "src/images/pizzaCaribe.jpg",
+            "time": 20
+        },
+        {
+            "id": 6,
+            "title": "Pizza Chile",
+            "price": 1000,
+            "imgredients": ["Jamon","Champiñon","Tomate"],
+            "img": "src/images/pizzaCaribe.jpg",
+            "time": 20
         }
-
+        
+    ],
+    "mesa":[
+      {"id":
+         1,
+        "name": "Mesa 1",
+        "location":"Terraza",
+        "floor": 1,
+        "available": true,
+        "img": "src/images/mesa1.jpg"
+      }, 
+      {
+        "id": 2,
+        "name": "Mesa 2",
+        "location":"Balcon",
+        "floor": 2,
+        "available": true,
+        "img": "src/images/mesa2.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Mesa 3",
+        "location":"Interior",
+        "floor": 1,
+        "available": true,
+        "img": "src/images/mesa3.jpg"
+      }
     ]
 } 

@@ -5,6 +5,7 @@
     align-items: center;
     width: 100%;
     height: calc(100vh - 72px);
+    background-color: blanchedalmond;
 }
 
 .container-flex{
