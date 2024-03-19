@@ -1,8 +1,17 @@
-# React + Vite
+<h1>Proyecto 4: Hooks y Props</h1>
+En este proyecto se pusieron en práctica con los conocimientos teóricos del uso de los hooks y las props de React.
+Este es el proyecto numero 4, la web de una pizzería.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Elementos del proyecto</h2>
 
-Currently, two official plugins are available:
+1. CSS
+2. HTML5
+3. Javascript
+4. React
+5. Bootstrap
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>Despliegue</h2>
+https://sebaaguilera-hub.github.io/proyecto-4-react/menu
+
+
+
