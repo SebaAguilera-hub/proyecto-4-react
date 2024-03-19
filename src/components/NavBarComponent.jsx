@@ -6,11 +6,11 @@ export const NavBarComponent = () => {
   
      <Navbar bg="dark" data-bs-theme="dark" className='nav'>
         <Container>
-          <Navbar.Brand as={Link} to="/">PizzasChillan</Navbar.Brand>
+          <Navbar.Brand as={Link} to="/proyecto-4-react/">PizzasChillan</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link as={Link} to="/">Sobre nosotros</Nav.Link>
-            <Nav.Link as={Link} to="/menu">Nuestro menu</Nav.Link>
-            <Nav.Link as={Link} to="/reservacion">Reservaciones</Nav.Link>
+            <Nav.Link as={Link} to="/proyecto-4-react/">Sobre nosotros</Nav.Link>
+            <Nav.Link as={Link} to="/proyecto-4-react/menu">Nuestro menu</Nav.Link>
+            <Nav.Link as={Link} to="/proyecto-4-react/reservacion">Reservaciones</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

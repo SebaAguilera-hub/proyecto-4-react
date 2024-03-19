@@ -12,9 +12,9 @@ function App() {
     <>
       <NavBarComponent />
       <Routes>
-         <Route path="/" element={<Home />}/>
-         <Route path="/menu" element={<Menu />}/>
-         <Route path="/reservacion" element={<Reserva />}/>
+         <Route path="/proyecto-4-react/" element={<Home />}/>
+         <Route path="/proyecto-4-react/menu" element={<Menu />}/>
+         <Route path="/proyecto-4-react/reservacion" element={<Reserva />}/>
       </Routes>
       <Footer />
     </>
