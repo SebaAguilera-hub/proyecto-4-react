@@ -10,6 +10,16 @@ Este es el proyecto numero 4, la web de una pizzería.
 4. React
 5. Bootstrap
 
+## WireFrames del proyecto
+#Index: Pagina principal donde se puede acceder a cualquier directorio desde el nav.
+<img src="public/index.svg" width="600px" height="500px">
+
+#Nuestro menu: Directorio donde el usuario puede ver los diferentes platos de la pizzería, los datos son obtenidos de un acrhivo json.
+<img src="public/menu.svg" width="600px" height="500px">
+
+#Reservaciones: Directorio donde el usuario puede reservar una mesa de las 3 disponibles, los datos de las mesas son dadas por un archivo json.
+<img src="public/reservacion.svg" width="600px" height="500px">
+
 <h2>Despliegue</h2>
 https://sebaaguilera-hub.github.io/proyecto-4-react/menu
 
