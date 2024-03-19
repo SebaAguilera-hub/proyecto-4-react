@@ -2,7 +2,7 @@ import React from 'react'
 import "./CardMenu.css"
 // import data from "../menu.json"
 import data from "../data.json"
-import pizzaFav from "../images/pizzaFav.jpg"
+
 
 
 export const CardMenu = () => {
