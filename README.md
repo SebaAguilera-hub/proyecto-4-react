@@ -8,7 +8,10 @@ Este es el proyecto numero 4, la web de una pizzería.
 2. HTML5
 3. Javascript
 4. React
-5.Boostrap
+5. Bootstrap
+
+<h2>Despliegue</h2>
+https://sebaaguilera-hub.github.io/proyecto-4-react/menu
 
 
 
