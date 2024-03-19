@@ -1,4 +1,55 @@
 .footer-container{
+    justify-content: center;
+    gap: 200px;
     display: flex;
-    
+
+    width: 100%;
+    height: 400px;
+
+}
+
+.footer-info{ 
+    margin-left: 30px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer-info div{
+    height: 60px;
+    margin: 10px;
+}
+
+.footer-info h2 {
+    font-weight: 800;
+    color: rgb(23, 23, 58);
+}
+
+.centro{
+    line-height: 1rem;
+}
+
+
+
+.footer-form{
+  background-color: white;  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  
+}
+
+.footer-form form{
+    gap: 20px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-button{
+    margin-left: 340px;
+    margin-top: 30px;
 }
