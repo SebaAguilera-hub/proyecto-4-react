@@ -14,7 +14,7 @@
             "title": "Pizza Italiana",
             "price": 4000,
             "imgredients": ["Tomate","Cebolla","Aceitunas"],
-            "img": "src/images/pizzaItaliana.jpg",
+            "img": "img/pizzaItaliana.jpg",
             "time": 30
         },
         {
@@ -22,7 +22,7 @@
             "title": "Pizza Preferida",
             "price": 3500,
             "imgredients": ["Jamón","Aceituna","Carne"],
-            "img": "src/images/pizzaFav.jpg",
+            "img": "img/pizzaFav.jpg",
             "time": 40
         },
         {
@@ -30,7 +30,7 @@
             "title": "Pizza Caribe",
             "price": 1000,
             "imgredients": ["Piña","Champiñon","Tomate"],
-            "img": "src/images/pizzaCaribe.jpg",
+            "img": "img/pizzaCaribe.jpg",
             "time": 20
         },
         {
@@ -38,7 +38,7 @@
             "title": "Pizza Mexicana",
             "price": 1000,
             "imgredients": ["Piña","Champiñon","Tomate"],
-            "img": "src/images/pizzaCaribe.jpg",
+            "img": "img/pizzaCaribe.jpg",
             "time": 20
         },
         {
@@ -46,7 +46,7 @@
             "title": "Pizza Generica",
             "price": 1000,
             "imgredients": ["Piña","Champiñon","Tomate"],
-            "img": "src/images/pizzaCaribe.jpg",
+            "img": "img/pizzaCaribe.jpg",
             "time": 20
         },
         {
@@ -54,7 +54,7 @@
             "title": "Pizza Chile",
             "price": 1000,
             "imgredients": ["Jamon","Champiñon","Tomate"],
-            "img": "src/images/pizzaCaribe.jpg",
+            "img": "img/pizzaCaribe.jpg",
             "time": 20
         }
         
@@ -66,7 +66,7 @@
         "location":"Terraza",
         "floor": 1,
         "available": true,
-        "img": "src/images/mesa1.jpg"
+        "img": "img/mesa1.jpg"
       }, 
       {
         "id": 2,
@@ -74,7 +74,7 @@
         "location":"Balcon",
         "floor": 2,
         "available": true,
-        "img": "src/images/mesa2.jpeg"
+        "img": "img/mesa2.jpeg"
       },
       {
         "id": 3,
@@ -82,7 +82,7 @@
         "location":"Interior",
         "floor": 1,
         "available": true,
-        "img": "src/images/mesa3.jpg"
+        "img": "img/mesa3.jpg"
       }
     ]
 } 
